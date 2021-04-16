@@ -23,12 +23,12 @@ body {
 
 ::selection {
     color: #fff;
-    background: #00bfff;
+    background: #FF1616;
 }
 
 ::-moz-selection {
     color: #fff;
-    background: #00bfff;
+    background: #FF1616;
 }
 
 p {
@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn {
-    background: #00bfff;
+    background: #FF1616;
 }
 
     .btn:hover {
@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
 a {
-    color: #00bfff;
+    color: #FF1616;
     text-decoration: none;
     text-shadow: none;
     -webkit-transition: all 0.2s linear;
@@ -106,7 +106,7 @@ a {
 }
 
 .btn-primary {
-    background: #00bfff;
+    background: #FF1616;
 }
 
 .form-control {
@@ -174,8 +174,8 @@ a {
 }
 
 .navbar-inverse .navbar-toggle {
-    border-color: #00bfff;
-    background-color: #00bfff;
+    border-color: #FF1616;
+    background-color: #FF1616;
 }
 
     .navbar-inverse .navbar-toggle .icon-bar {
@@ -183,11 +183,11 @@ a {
     }
 
     .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-        background: #00bfff;
+        background: #FF1616;
     }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: #00bfff;
+    color: #FF1616;
 }
 
 .navbar-inverse .navbar-toggle:hover .icon-bar {
@@ -199,7 +199,7 @@ a {
 /*.carousel-inner*/
 #myCarousel {
     margin-top: 50px;
-    border-bottom: 4px solid #00bfff;
+    border-bottom: 4px solid #FF1616;
 }
 
 .carousel-inner > .item {
@@ -231,7 +231,7 @@ a {
 
 .actionPanel {
     padding: 25px 0;
-    background: #00bfff;
+    background: #FF1616;
 }
 
     .actionPanel h3 {
@@ -239,7 +239,7 @@ a {
     }
 
 .circle {
-    background: #00bfff;
+    background: #FF1616;
     height: 60px;
     width: 60px;
     border-radius: 35px;
