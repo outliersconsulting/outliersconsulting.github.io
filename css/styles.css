@@ -1110,9 +1110,11 @@ footer {
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
-  float: left;
   width: 25.00%;
-  padding: 5px;
+  padding: 5px
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Clear floats after image containers */
