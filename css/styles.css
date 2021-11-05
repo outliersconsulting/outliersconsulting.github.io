@@ -1111,7 +1111,7 @@ footer {
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   width: 25.00%;
-  padding: 5px
+  padding: 15px
   display: flex;
   justify-content: center;
   align-items: center;
