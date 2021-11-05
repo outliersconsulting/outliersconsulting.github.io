@@ -1112,7 +1112,7 @@ footer {
 .column {
   /*float: left;*/
   display: inline-block;
-  width: 25.00%;
+  width: 24.00%;
 }
 
 /* Clear floats after image containers */
