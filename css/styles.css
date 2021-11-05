@@ -1110,7 +1110,8 @@ footer {
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
-  float: left;
+  /*float: left;*/
+  display: inline-block;
   width: 25.00%;
   padding: 5px;
 }
@@ -1120,4 +1121,5 @@ footer {
   content: "";
   clear: both;
   display: table;
+  text-align: center;
 }
